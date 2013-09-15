@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Grant Feature Demo feature.
+ */
+
+include_once 'grant_feature_demo.features.inc';
